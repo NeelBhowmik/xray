@@ -16,7 +16,7 @@
 |COMPASS-XP     |2D    | 2019 |366            |1928 - 0 | -- |1 |  ✓ [[Link]](https://zenodo.org/record/2654887#.YUtGVHVKikA)           |
 |dbf6       |2D    | 2018 |6            |11,627 - 0 | bbox, mask |4     |✕ [[Link]](https://breckon.org/toby/publications/papers/akcay18architectures.pdf)  |
 |GDXray       |2D    | 2015 |5            |19,407 - 0 | bbox |1     |✓ [[Link]](https://link.springer.com/content/pdf/10.1007/s10921-015-0315-7.pdf)  |
-|Reveal       |3D CT    | 2020 |5            |774 - 0 | bbox | --   |✕ [[Link]](https://arxiv.org/abs/2008.01218)  |
+|Reveal       |3D    | 2020 |5            |774 - 0 | bbox | --   |✕ [[Link]](https://arxiv.org/abs/2008.01218)  |
 
 
 ---
