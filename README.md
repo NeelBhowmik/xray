@@ -34,6 +34,7 @@
 - Unsupervised Anomaly Instance Segmentation for Baggage Threat Recognition [[Link]](https://arxiv.org/abs/2107.07333) 
 - Symmetric Triangle Network for Object Detection Within X-ray Baggage Security Imagery [[Link]](https://ieeexplore.ieee.org/document/9533991)
 - Anomaly Detection in X-ray Security Imaging: a Tensor-Based Learning Approach [[Link]](https://ieeexplore.ieee.org/document/9534034) 
+- Automated Threat Objects Detection with Synthetic Data for Real-Time X-ray Baggage Inspection [[Link]](https://ieeexplore.ieee.org/document/9533928)
 
 #### 3D CT
 
