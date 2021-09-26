@@ -4,6 +4,7 @@
   <img src="images/xray-history.png" />
 </p>
 
+List of datasets and papers (not exhaustive).
 ## Dataset
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
@@ -79,6 +80,7 @@
 - Graph clustering and variational image segmentation for automated firearm detection in X-ray images [[Link]](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2018.5198)
 - Semantic Segmentation for Prohibited Items in Baggage Inspection [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-36189-1_41#:~:text=Semantic%20segmentation%20is%20a%20branch,open%20the%20baggage%20for%20inspection.)
 - Application of Machine Learning Methods for Material Classification with Multi-energy X-Ray Transmission Images [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-24274-9_17)
+- Handgun Detection in Single-Spectrum Multiple X-ray Views Based on 3D Object Recognition [[Link]](https://link.springer.com/article/10.1007/s10921-019-0602-9)
 
 
 #### 3D CT
@@ -117,7 +119,10 @@
 - Automated X-Ray Object Recognition Using an Efficient Search Algorithm in Multiple Views [[Link]](https://ieeexplore.ieee.org/document/6595901)
 - X-Ray Testing by Computer Vision [[Link]](https://ieeexplore.ieee.org/document/6595900)
 - Automated detection in complex objects using a tracking algorithm in multiple X-ray views [[Link]](https://ieeexplore.ieee.org/document/5981715)
-
+- Threat Objects Detection in X-ray Images Using an Active Vision Approach [[Link]](https://link.springer.com/article/10.1007/s10921-017-0419-3)
+- Object recognition in X-ray testing using an efficient search algorithm in multiple views [[Link]](https://www.ingentaconnect.com/content/bindt/insight/2017/00000059/00000002/art00008;jsessionid=1n6a28jhds21c.x-ic-live-02)
+- Modern Computer Vision Techniques for X-Ray Testing in Baggage Inspection [[Link]](https://ieeexplore.ieee.org/document/7775025)
+- Automated Detection of Threat Objects Using Adapted Implicit Shape Model [[Link]](https://ieeexplore.ieee.org/document/7123190)
 
 #### 3D CT
 - Geometrical Approach for the Automatic Detection of Liquid Surfaces in 3D Computed Tomography Baggage Imagery [[Link]](https://breckon.org/toby/publications/papers/chermak15liquids.pdf)
