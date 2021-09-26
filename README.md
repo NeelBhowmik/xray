@@ -4,7 +4,7 @@
   <img src="images/xray-history.png" />
 </p>
 
-***[List of datasets and papers (not exhaustive).]***
+*[List of datasets and papers (not exhaustive).]*
 ## Dataset
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
