@@ -5,7 +5,7 @@
 </p>
 
 *[List of datasets and papers (not exhaustive)]*
-## Dataset
+## :card_file_box: Dataset
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
@@ -22,7 +22,7 @@
 |Flitton_3D       |3D    | 2015 |2        |810 - 2149 | bbox | --   |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/flitton15codebooks.pdf)  |
 
 ---
-## Paper :scroll:
+## :scroll: Paper 
 ### 2021
 #### 2D
 
