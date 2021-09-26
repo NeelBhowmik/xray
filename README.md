@@ -102,7 +102,7 @@
 - Consensus relaxation on materials of interest for adaptive ATR in CT images of baggage [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10632/106320E/Consensus-relaxation-on-materials-of-interest-for-adaptive-ATR-in/10.1117/12.2309839.full)
 
 
-### Erlier
+### Earlier
 
 #### 2D
 - An Evaluation Of Region Based Object Detection Strategies Within X-Ray Baggage Security Imagery [[Link]](https://breckon.org/toby/publications/papers/akcay17region.pdf)
