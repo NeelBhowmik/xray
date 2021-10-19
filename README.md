@@ -26,7 +26,7 @@
 ### 2021
 #### 2D
 
-- Operationalizing Convolutional Neural Network Architectures for Prohibited Object Detection in X-Ray Imagery
+- Operationalizing Convolutional Neural Network Architectures for Prohibited Object Detection in X-Ray Imagery [[Link]](https://arxiv.org/abs/2110.04906)
 - Towards Automatic Threat Detection: A Survey of Advances of Deep Learning within X-ray Security Imaging  [[Link]](https://arxiv.org/abs/2001.01293)
 - On the Impact of Using X-Ray Energy Response Imagery for Object Detection via Convolutional Neural Networks [[Link]](https://arxiv.org/abs/2108.12505)
 - Towards Real-World Prohibited Item Detection: A Large-Scale X-ray Benchmark [[Link]](https://arxiv.org/pdf/2108.07020.pdf)
@@ -36,10 +36,11 @@
 - Symmetric Triangle Network for Object Detection Within X-ray Baggage Security Imagery [[Link]](https://ieeexplore.ieee.org/document/9533991)
 - Anomaly Detection in X-ray Security Imaging: a Tensor-Based Learning Approach [[Link]](https://ieeexplore.ieee.org/document/9534034) 
 - Automated Threat Objects Detection with Synthetic Data for Real-Time X-ray Baggage Inspection [[Link]](https://ieeexplore.ieee.org/document/9533928)
+- Evaluating GAN-Based Image Augmentation for Threat Detection in Large-Scale Xray Security Images [[Link]](https://www.mdpi.com/2076-3417/11/1/36)
 
 #### 3D CT
 
-- Contraband Materials Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery
+- Contraband Materials Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery [[Link]](https://arxiv.org/abs/2012.11753)
 - On the Evaluation of Semi-Supervised 2D Segmentation for Volumetric 3D Computed Tomography Baggage Security Screening [[Link]](https://breckon.org/toby/publications/papers/wang21segmentation.pdf)
 
 ### 2020
@@ -53,6 +54,7 @@
 - Detecting Prohibited Items in X-Ray Images: a Contour Proposal Learning Approach [[Link]](https://ieeexplore.ieee.org/document/9190711)
 - Background Adaptive Faster R-CNN for Semi-Supervised Convolutional Object Detection of Threats in X-Ray Images [[Link]](https://arxiv.org/abs/2010.01202)
 - X-Ray Baggage Inspection With Computer Vision: A Survey [[Link]](https://ieeexplore.ieee.org/document/9162101)
+- Data Augmentation of X-Ray Images in Baggage Inspection Based on Generative Adversarial Networks [[Link]](https://ieeexplore.ieee.org/document/9087880)
 
 #### 3D CT
 - Multi-Class 3D Object Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery [[Link]](https://arxiv.org/abs/2008.01218)
