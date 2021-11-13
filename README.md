@@ -26,6 +26,9 @@
 ### 2021
 #### 2D
 
+- Deep Fusion Driven Semantic Segmentation for the Automatic Recognition of Concealed Contraband Items [[Link]](https://link.springer.com/chapter/10.1007%2F978-3-030-73689-7_53)
+- Brittle Features May Help Anomaly Detection [[Link]](https://arxiv.org/abs/2104.10453)
+- Deep Learning-Based X-Ray Baggage Hazardous Object Detection – An FPGA Implementation [[Link]](https://www.iieta.org/journals/ria/paper/10.18280/ria.350510)
 - Operationalizing Convolutional Neural Network Architectures for Prohibited Object Detection in X-Ray Imagery [[Link]](https://arxiv.org/abs/2110.04906)
 - Towards Automatic Threat Detection: A Survey of Advances of Deep Learning within X-ray Security Imaging  [[Link]](https://arxiv.org/abs/2001.01293)
 - On the Impact of Using X-Ray Energy Response Imagery for Object Detection via Convolutional Neural Networks [[Link]](https://arxiv.org/abs/2108.12505)
@@ -45,6 +48,8 @@
 
 ### 2020
 #### 2D
+
+- Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion [[Link]](https://openaccess.thecvf.com/content/ACCV2020/html/Hu_Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV_2020_paper.html)
 - Multi-view Object Detection Using Epipolar Constraints within Cluttered X-ray Security Imagery [[Link]](https://breckon.org/toby/publications/papers/isaac20multiview.pdf)
 - Occluded Prohibited Items Detection: an X-ray Security Inspection Benchmark and De-occlusion Attention Module [[Link]](https://arxiv.org/abs/2004.08656)
 - Trainable Structure Tensors for Autonomous Baggage Threat Detection Under Extreme Occlusion [[Link]](https://arxiv.org/abs/2009.13158)
