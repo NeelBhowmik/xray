@@ -25,7 +25,7 @@
 ## :scroll: Paper 
 ### 2021
 #### 2D
-
+- A Novel Incremental Learning Driven Instance Segmentation Framework to Recognize Highly Cluttered Instances of the Contraband Items [[Link]](https://arxiv.org/pdf/2201.02560.pdf)
 - Deep Fusion Driven Semantic Segmentation for the Automatic Recognition of Concealed Contraband Items [[Link]](https://link.springer.com/chapter/10.1007%2F978-3-030-73689-7_53)
 - Brittle Features May Help Anomaly Detection [[Link]](https://arxiv.org/abs/2104.10453)
 - Deep Learning-Based X-Ray Baggage Hazardous Object Detection – An FPGA Implementation [[Link]](https://www.iieta.org/journals/ria/paper/10.18280/ria.350510)
