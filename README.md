@@ -5,10 +5,12 @@
 </p>
 
 *[List of datasets and papers (not exhaustive)]*
-## :card_file_box: Dataset
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
+|Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
+|PIXray       |2D    | 2022 |12            |5,046 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/Mbwslib/DDoAS)  |
+|CLCXray       |2D    | 2022 |12            |9,565 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/GreysonPhoenix/CLCXray)  |
 |deei6       |2D    | 2021 |6            |7,022 - 0 | bbox, mask|2     |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/bhowmik21energy.pdf)  |
 |PIDray    |2D    | 2021 |12           |47,677 - 0  | bbox, mask |1     |<span style="color:green;">✓</span> [[Link]](https://github.com/bywang2018/security-dataset)       |
 |AB       |2D    | 2021 |--            |417 - 6,608 | -- |2     |<span style="color:red;">✕</span> [[Link]](https://ieeexplore.ieee.org/document/9534034)  |
@@ -22,7 +24,49 @@
 |Flitton_3D       |3D    | 2015 |2        |810 - 2149 | bbox | --   |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/flitton15codebooks.pdf)  |
 
 ---
-## :scroll: Paper 
+### 2022
+
+#### 2D
+
+- Automated Detection of Threat Materials in X -Ray Baggage Inspection System (XBIS) [[Link]](https://ieeexplore.ieee.org/document/9795120)
+- Threat detection in x-ray baggage security imagery using convolutional neural networks [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/121040H/Threat-detection-in-x-ray-baggage-security-imagery-using-convolutional/10.1117/12.2622373.short?SSO=1)
+- X-ray baggage screening and artificial intelligence (AI) [[Link]](https://op.europa.eu/en/publication-detail/-/publication/b6e77043-ede4-11ec-a534-01aa75ed71a1/language-en)
+- Material-aware Cross-channel Interaction Attention (MCIA) for occluded prohibited item detection [[Link]](https://link.springer.com/article/10.1007/s00371-022-02498-y)
+- A Novel Incremental Learning Driven Instance Segmentation Framework to Recognize Highly Cluttered Instances of the Contraband Items [[Link]](https://arxiv.org/abs/2201.02560)
+- How Realistic Is Threat Image Projection for X-ray Baggage Screening? [[Link]](https://www.mdpi.com/1424-8220/22/6/2220)
+- Cross-modal Image Synthesis within Dual-Energy X-ray Security Imagery [[Link]](https://openaccess.thecvf.com/content/CVPR2022W/PBVS/papers/Isaac-Medina_Cross-Modal_Image_Synthesis_Within_Dual-Energy_X-Ray_Security_Imagery_CVPRW_2022_paper.pdf)
+- Recursive CNN Model to Detect Anomaly Detection in X-Ray Security Image[[Link]](https://ieeexplore.ieee.org/abstract/document/9754033?casa_token=Z5JOZgYLA-cAAAAA:8mR-hC0nj2sRu23gI0uZwt0w4K_oHfKcXVnCk6PMWjzmv9YzGxmLGIjDWkdriyqegNf44JRPHZc)
+- Towards More Efficient Security Inspection via Deep Learning: A Task-Driven X-ray Image Cropping Scheme [[Link]](https://www.mdpi.com/2072-666X/13/4/565)
+- DMA-Net: Dual multi-instance attention network for X-ray image classification[[Link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12560)
+- X-ray security check image recognition based on attention mechanism [[Link]](https://iopscience.iop.org/article/10.1088/1742-6596/2216/1/012104/meta)
+- A Data Augmentation Method for Prohibited Item X-Ray Pseudocolor Images in X-Ray Security Inspection Based on Wasserstein Generative Adversarial Network and Spatial-and-Channel Attention Block [[Link]](https://www.hindawi.com/journals/cin/2022/8172466/)
+- Enhanced threat detection in three dimensions: An image-matched comparison of computed tomography and dual-view X-ray baggage screening[[Link]](https://www.sciencedirect.com/science/article/pii/S0003687022001570)
+- ETHSeg: An Amodel Instance Segmentation Network and a Real-world Dataset
+for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qiu_ETHSeg_An_Amodel_Instance_Segmentation_Network_and_a_Real-World_Dataset_CVPR_2022_paper.pdf)
+- Anomaly object detection in x-ray images with Gabor convolution and bigger discriminative RoI pooling [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12177/121770B/Anomaly-object-detection-in-x-ray-images-with-Gabor-convolution/10.1117/12.2625815.short)
+- Intelligent Detection of Dangerous Goods in Security Inspection Based on Cascade Cross Stage YOLOv3 Model [[Link]](https://hrcak.srce.hr/en/275305)
+- A Lightweight Dangerous Liquid Detection Method Based on Depthwise Separable Convolution for X-Ray Security Inspection [[Link]](https://www.hindawi.com/journals/cin/2022/5371350/)
+- EAOD-Net: Effective anomaly object detection networks for X-ray images [[Link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12514)
+- American National Standard for Evaluating the Image Quality of X-ray Computed Tomography (CT) Security-Screening Systems [[Link]](https://ieeexplore.ieee.org/document/9812579)
+- Automated Segmentation of Prohibited Items in X-ray Baggage Images Using Dense De-overlap Attention Snake [[Link]](https://ieeexplore.ieee.org/document/9772992)
+- Programmable Broad Learning System to Detect Concealed and Imbalanced Baggage Threats [[Link]](https://ieeexplore.ieee.org/document/9787420)
+- Few-Shot Segmentation for Prohibited Items Inspection with Patch-based Self-Supervised Learning and Prototype Reverse Validation [[Link]](https://ieeexplore.ieee.org/document/9779459)
+- Augmenting data with GANs for firearms detection in cargo x-ray images [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/1210406/Augmenting-data-with-GANs-for-firearms-detection-in-cargo-x/10.1117/12.2618887.short?SSO=1)
+- Weight-guided dual-direction-fusion feature pyramid network for prohibited item detection in x-ray images [[Link]](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-31/issue-3/033032/Weight-guided-dual-direction-fusion-feature-pyramid-network-for-prohibited/10.1117/1.JEI.31.3.033032.short)
+- Handling occlusion in prohibited item detection from X-ray images [[Link]](https://link.springer.com/article/10.1007/s00521-022-07578-7)
+- Exploiting foreground and background separation for prohibited item detection in overlapping X-Ray images[[Link]](https://www.sciencedirect.com/science/article/pii/S0031320321004416?casa_token=YKXXjKmLbXUAAAAA:zISg01iB-CP49Ek1rlneL-HftSZnYiA69izOwObqUUM5WdDawLxiSdUePbXI0lq7KF72Wgphfw)
+- PMix: a method to improve the classification of X-ray prohibited items based on probability mixing [[Link]](https://www.inderscienceonline.com/doi/pdf/10.1504/IJWMC.2022.123318)
+- Detecting prohibited objects with physical size constraint from cluttered X-ray baggage images [[Link]](https://www.sciencedirect.com/science/article/pii/S0950705121010686?casa_token=Y9V5DLzSMw0AAAAA:xyzOIGXtGxAPRaORWuiXWa0E7u2ICS4B1wcZvotPTI9wXzPFEp3IzDuhXKPubRsWX3Mu8q-4AA)
+- Synthetic threat injection using digital twin informed augmentation [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/1210407/Synthetic-threat-injection-using-digital-twin-informed-augmentation/10.1117/12.2618972.short)
+- Target Detection by Target Simulation in X-ray Testing [[Link]](https://link.springer.com/article/10.1007/s10921-022-00851-8)
+- Abnormal object detection in x-ray images with self-normalizing channel attention and efficient data augmentation [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12177/121770M/Abnormal-object-detection-in-x-ray-images-with-self-normalizing/10.1117/12.2625843.short)
+- Raw data processing techniques for material classification of objects in dual energy X-ray baggage inspection systems [[Link]](https://www.sciencedirect.com/science/article/pii/S0969806X21001626?casa_token=oQnnKwLnYqIAAAAA:cVnclMgMt-24YQEl8dlErCzgMDZlvGC35CF6cddeil5qxxQ0ZhY05P74P0tcBN_M5I4iUk7dSg)
+-   
+
+#### 3D
+- CTIMS: Automated Defect Detection Framework Using Computed Tomography [[Link]](https://www.mdpi.com/2076-3417/12/4/2175)
+
+
 ### 2021
 #### 2D
 
@@ -40,6 +84,9 @@
 - Anomaly Detection in X-ray Security Imaging: a Tensor-Based Learning Approach [[Link]](https://ieeexplore.ieee.org/document/9534034) 
 - Automated Threat Objects Detection with Synthetic Data for Real-Time X-ray Baggage Inspection [[Link]](https://ieeexplore.ieee.org/document/9533928)
 - Evaluating GAN-Based Image Augmentation for Threat Detection in Large-Scale Xray Security Images [[Link]](https://www.mdpi.com/2076-3417/11/1/36)
+- An X-ray Image Enhancement Algorithm for Dangerous Goods in Airport Security Inspection [[Link]](https://ieeexplore.ieee.org/document/9407728/metrics#metrics)
+- Baggage Threat Detection Under Extreme Class Imbalance [[Link]](https://ieeexplore.ieee.org/abstract/document/9787472)
+- Detecting Overlapped Objects in X-Ray Security Imagery by a Label-Aware Mechanism [[Link]](https://ieeexplore.ieee.org/document/9722843)
 
 #### 3D CT
 
