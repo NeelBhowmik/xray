@@ -61,7 +61,7 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - Target Detection by Target Simulation in X-ray Testing [[Link]](https://link.springer.com/article/10.1007/s10921-022-00851-8)
 - Abnormal object detection in x-ray images with self-normalizing channel attention and efficient data augmentation [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12177/121770M/Abnormal-object-detection-in-x-ray-images-with-self-normalizing/10.1117/12.2625843.short)
 - Raw data processing techniques for material classification of objects in dual energy X-ray baggage inspection systems [[Link]](https://www.sciencedirect.com/science/article/pii/S0969806X21001626?casa_token=oQnnKwLnYqIAAAAA:cVnclMgMt-24YQEl8dlErCzgMDZlvGC35CF6cddeil5qxxQ0ZhY05P74P0tcBN_M5I4iUk7dSg)
--   
+- more
 
 #### 3D
 - CTIMS: Automated Defect Detection Framework Using Computed Tomography [[Link]](https://www.mdpi.com/2076-3417/12/4/2175)
