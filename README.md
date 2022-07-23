@@ -6,6 +6,8 @@
 
 *[List of datasets and papers (not exhaustive)]*
 
+## :card_file_box: Dataset
+
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
 |Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
@@ -24,8 +26,8 @@
 |Flitton_3D       |3D    | 2015 |2        |810 - 2149 | bbox | --   |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/flitton15codebooks.pdf)  |
 
 ---
+## :scroll: Paper 
 ### 2022
-
 #### 2D
 
 - Automated Detection of Threat Materials in X -Ray Baggage Inspection System (XBIS) [[Link]](https://ieeexplore.ieee.org/document/9795120)
