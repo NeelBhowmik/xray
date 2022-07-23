@@ -6,8 +6,7 @@
 
 *[List of datasets and papers (not exhaustive)]*
 
-## :card_file_box: Dataset
-[2D: 12] [3D: 2]
+## :card_file_box: Dataset *[2D: 12 ||  3D: 2]*
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
