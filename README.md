@@ -7,7 +7,7 @@
 *[List of datasets and papers (not exhaustive)]*
 
 ## :card_file_box: Dataset
-**Counter:: [2D: 12] [3D: 2]**
+*:chart_with_upwards_trend: [2D: 12] [3D: 2]*
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
@@ -28,6 +28,8 @@
 
 ---
 ## :scroll: Paper 
+:chart_with_upwards_trend: [2D: 105] [3D: 26]
+
 ### 2022
 #### 2D
 
