@@ -14,7 +14,7 @@
 |Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
 |PIXray       |2D    | 2022 |12            |5,046 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/Mbwslib/DDoAS)  |
 |CLCXray       |2D    | 2022 |12            |9,565 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/GreysonPhoenix/CLCXray)  |
-|HiXray       |2D    | 2021 |8            |102,928 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/xl4533/HiXray#dataset)  |
+|HiXray       |2D    | 2021 |8            |45,364 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |deei6       |2D    | 2021 |6            |7,022 - 0 | bbox, mask|2     |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/bhowmik21energy.pdf)  |
 |PIDray    |2D    | 2021 |12           |47,677 - 0  | bbox, mask |1     |<span style="color:green;">✓</span> [[Link]](https://github.com/bywang2018/security-dataset)       |
 |AB       |2D    | 2021 |--            |417 - 6,608 | -- |2     |<span style="color:red;">✕</span> [[Link]](https://ieeexplore.ieee.org/document/9534034)  |
@@ -29,11 +29,12 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 116] [3D: 26]
+:chart_with_upwards_trend: [2D: 119] [3D: 39]
 
 ### 2022
 #### 2D
 
+- Recent Advances in Baggage Threat Detection: A Comprehensive and Systematic Survey [[Link]](https://dl.acm.org/doi/10.1145/3549932)
 - Automated Detection of Threat Materials in X -Ray Baggage Inspection System (XBIS) [[Link]](https://ieeexplore.ieee.org/document/9795120)
 - Threat detection in x-ray baggage security imagery using convolutional neural networks [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/121040H/Threat-detection-in-x-ray-baggage-security-imagery-using-convolutional/10.1117/12.2622373.short?SSO=1)
 - X-ray baggage screening and artificial intelligence (AI) [[Link]](https://op.europa.eu/en/publication-detail/-/publication/b6e77043-ede4-11ec-a534-01aa75ed71a1/language-en)
@@ -108,6 +109,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 
 - Contraband Materials Detection Within Volumetric 3D Computed Tomography Baggage Security Screening Imagery [[Link]](https://arxiv.org/abs/2012.11753)
 - On the Evaluation of Semi-Supervised 2D Segmentation for Volumetric 3D Computed Tomography Baggage Security Screening [[Link]](https://breckon.org/toby/publications/papers/wang21segmentation.pdf)
+- SliceNets — A Scalable Approach for Object Detection in 3D CT Scans [[Link]](https://ieeexplore.ieee.org/document/9423392)
+- DEBISim: A simulation pipeline for dual energy CT-based baggage inspection systems [[Link]](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst200808)
 
 ### 2020
 #### 2D
@@ -170,6 +173,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 
 #### 3D CT
 - Consensus relaxation on materials of interest for adaptive ATR in CT images of baggage [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10632/106320E/Consensus-relaxation-on-materials-of-interest-for-adaptive-ATR-in/10.1117/12.2309839.full)
+- Consensus relaxation on materials of interest for adaptive ATR in CT images of baggage [[Link]](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2309839)
+- Adaptive Target Recognition: A Case Study Involving Airport Baggage Screening [[Link]](https://arxiv.org/abs/1811.04772)
 
 
 ### Earlier
@@ -193,6 +198,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - Object recognition in X-ray testing using an efficient search algorithm in multiple views [[Link]](https://www.ingentaconnect.com/content/bindt/insight/2017/00000059/00000002/art00008;jsessionid=1n6a28jhds21c.x-ic-live-02)
 - Modern Computer Vision Techniques for X-Ray Testing in Baggage Inspection [[Link]](https://ieeexplore.ieee.org/document/7775025)
 - Automated Detection of Threat Objects Using Adapted Implicit Shape Model [[Link]](https://ieeexplore.ieee.org/document/7123190)
+- A review of X-ray explosives detection techniques for checked baggage [[Link]](https://www.sciencedirect.com/science/article/pii/S0969804312000127)
+- Explosives detection systems (EDS) for aviation security [[Link]](https://www.sciencedirect.com/science/article/pii/S0165168402003912)
 
 #### 3D CT
 - Geometrical Approach for the Automatic Detection of Liquid Surfaces in 3D Computed Tomography Baggage Imagery [[Link]](https://breckon.org/toby/publications/papers/chermak15liquids.pdf)
@@ -212,3 +219,12 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - Object Recognition using 3D SIFT in Complex CT Volumes [[Link]](https://breckon.org/toby/publications/papers/flitton10baggage.pdf)
 - A Classifier based Approach for the Detection of Potential Threats in CT based Baggage Screening [[Link]](https://breckon.org/toby/publications/papers/megherbi10baggage.pdf)
 - A review of automated image understanding within 3D baggage computed tomography security screening [[Link]](https://breckon.org/toby/publications/papers/mouton15review.pdf)
+- A volumetric object detection framework with dual-energy CT [[Link]](https://ieeexplore.ieee.org/document/4774641)
+- Exact Reconstruction for Dual Energy Computed Tomography Using an H-L Curve Method [[Link]](https://ieeexplore.ieee.org/document/4179793)
+- Automatic segmentation of CT scans of checked baggage [[Link]](https://www.stratovan.com/sites/default/files/AutomaticSegmentationOfCtScansOfCheckedBaggage.pdf)
+- Automatic Segmentation of Unknown Objects, with Application to Baggage Security [[Link]](https://link.springer.com/chapter/10.1007/978-3-642-33709-3_31)
+- ALERT Strategic Studies [[Link]]()
+- Joint metal artifact reduction and segmentation of CT images using dictionary-based image prior and continuous-relaxed potts model [[Link]](https://ieeexplore.ieee.org/document/7350909)
+- Using Threat Image Projection Data Forassessing Individual Screener Performance [[Link]](https://www.witpress.com/elibrary/wit-transactions-on-the-built-environment/82/15153)
+- 3D threat image projection [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6805/680508/3D-threat-image-projection/10.1117/12.766432.full?SSO=1)
+- Learning-Based Object Identification and Segmentation Using Dual-Energy CT Images for Security [[Link]](https://ieeexplore.ieee.org/document/7159062)
