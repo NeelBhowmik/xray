@@ -34,7 +34,7 @@
 ### 2022
 #### 2D
 
-- Recent Advances in Baggage Threat Detection: A Comprehensive and Systematic Survey [[Link]](https://dl.acm.org/doi/10.1145/3549932 target="_blank")
+- Recent Advances in Baggage Threat Detection: A Comprehensive and Systematic Survey [[Link]](https://dl.acm.org/doi/10.1145/3549932)
 - Automated Detection of Threat Materials in X -Ray Baggage Inspection System (XBIS) [[Link]](https://ieeexplore.ieee.org/document/9795120)
 - Threat detection in x-ray baggage security imagery using convolutional neural networks [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/121040H/Threat-detection-in-x-ray-baggage-security-imagery-using-convolutional/10.1117/12.2622373.short?SSO=1)
 - X-ray baggage screening and artificial intelligence (AI) [[Link]](https://op.europa.eu/en/publication-detail/-/publication/b6e77043-ede4-11ec-a534-01aa75ed71a1/language-en)
