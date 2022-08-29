@@ -14,7 +14,7 @@
 |Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
 |PIXray       |2D    | 2022 |12            |5,046 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/Mbwslib/DDoAS)  |
 |CLCXray       |2D    | 2022 |12            |9,565 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/GreysonPhoenix/CLCXray)  |
-|HiXray       |2D    | 2021 |8            |45,364 - 0 | bbox, mask|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
+|HiXray       |2D    | 2021 |8            |45,364 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |deei6       |2D    | 2021 |6            |7,022 - 0 | bbox, mask|2     |<span style="color:red;">✕</span> [[Link]](https://breckon.org/toby/publications/papers/bhowmik21energy.pdf)  |
 |PIDray    |2D    | 2021 |12           |47,677 - 0  | bbox, mask |1     |<span style="color:green;">✓</span> [[Link]](https://github.com/bywang2018/security-dataset)       |
 |AB       |2D    | 2021 |--            |417 - 6,608 | -- |2     |<span style="color:red;">✕</span> [[Link]](https://ieeexplore.ieee.org/document/9534034)  |
@@ -34,6 +34,9 @@
 ### 2022
 #### 2D
 
+- Improved YOLOX detection algorithm for contraband in X-ray images [[Link]](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-21-6297)
+- LightRay: Lightweight network for prohibited items detection in X-ray images during security inspection [[Link]](https://www.sciencedirect.com/science/article/pii/S0045790622005110?via%3Dihub)
+- Benefits of Decision Support Systems in Relation to Task Difficulty in Airport Security X-Ray Screening [[Link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2107775)
 - Recent Advances in Baggage Threat Detection: A Comprehensive and Systematic Survey [[Link]](https://dl.acm.org/doi/10.1145/3549932)
 - Automated Detection of Threat Materials in X -Ray Baggage Inspection System (XBIS) [[Link]](https://ieeexplore.ieee.org/document/9795120)
 - Threat detection in x-ray baggage security imagery using convolutional neural networks [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12104/121040H/Threat-detection-in-x-ray-baggage-security-imagery-using-convolutional/10.1117/12.2622373.short?SSO=1)
