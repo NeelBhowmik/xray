@@ -31,11 +31,12 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 122] [3D: 39]
+:chart_with_upwards_trend: [2D: 123] [3D: 39]
 
 ### 2022
 #### 2D
 
+- Baggage Threat Recognition Using Deep Low-Rank Broad Learning Detector [[Link]](https://ieeexplore.ieee.org/document/9842976)
 - Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_Endogenous_Shift_for_Cross-Domain_Detection_A_Large-Scale_Benchmark_and_CVPR_2022_paper.pdf)
 - Improved YOLOX detection algorithm for contraband in X-ray images [[Link]](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-21-6297)
 - LightRay: Lightweight network for prohibited items detection in X-ray images during security inspection [[Link]](https://www.sciencedirect.com/science/article/pii/S0045790622005110?via%3Dihub)
