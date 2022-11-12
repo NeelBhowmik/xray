@@ -36,10 +36,10 @@
 ### 2022
 #### 2D
 
-- Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery[[Link]](https://arxiv.org/abs/2210.16453)
-- Automatic Baggage Threat Detection Using Deep Attention Networks[[Link]](https://link.springer.com/chapter/10.1007/978-3-030-95070-5_11)
-- A Multi-Task Semantic Segmentation Network for Threat Detection in X-Ray Security Images[[Link]](https://ieeexplore.ieee.org/document/9897736)
-- Dualray: Dual-View X-ray Security Inspection Benchmark and Fusion Detection Framework[[Link]](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_57#Fig6)
+- Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery [[Link]](https://arxiv.org/abs/2210.16453)
+- Automatic Baggage Threat Detection Using Deep Attention Networks [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-95070-5_11)
+- A Multi-Task Semantic Segmentation Network for Threat Detection in X-Ray Security Images [[Link]](https://ieeexplore.ieee.org/document/9897736)
+- Dualray: Dual-View X-ray Security Inspection Benchmark and Fusion Detection Framework [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_57#Fig6)
 - MFA-net: Object detection for complex X-ray cargo and baggage security imagery [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272961)
 - Baggage Threat Recognition Using Deep Low-Rank Broad Learning Detector [[Link]](https://ieeexplore.ieee.org/document/9842976)
 - Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_Endogenous_Shift_for_Cross-Domain_Detection_A_Large-Scale_Benchmark_and_CVPR_2022_paper.pdf)
