@@ -31,11 +31,16 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 123] [3D: 39]
+:chart_with_upwards_trend: [2D: 129] [3D: 39]
 
 ### 2022
 #### 2D
 
+- Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery[[Link]](https://arxiv.org/abs/2210.16453)
+- Automatic Baggage Threat Detection Using Deep Attention Networks[[Link]](https://link.springer.com/chapter/10.1007/978-3-030-95070-5_11)
+- A Multi-Task Semantic Segmentation Network for Threat Detection in X-Ray Security Images[[Link]](https://ieeexplore.ieee.org/document/9897736)
+- Dualray: Dual-View X-ray Security Inspection Benchmark and Fusion Detection Framework[[Link]](https://link.springer.com/chapter/10.1007/978-3-031-18916-6_57#Fig6)
+- MFA-net: Object detection for complex X-ray cargo and baggage security imagery [[Link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272961)
 - Baggage Threat Recognition Using Deep Low-Rank Broad Learning Detector [[Link]](https://ieeexplore.ieee.org/document/9842976)
 - Exploring Endogenous Shift for Cross-domain Detection: A Large-scale Benchmark and Perturbation Suppression Network [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_Endogenous_Shift_for_Cross-Domain_Detection_A_Large-Scale_Benchmark_and_CVPR_2022_paper.pdf)
 - Improved YOLOX detection algorithm for contraband in X-ray images [[Link]](https://opg.optica.org/ao/abstract.cfm?uri=ao-61-21-6297)
@@ -82,6 +87,7 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 
 ### 2021
 #### 2D
+- Super-resolution network for x-ray security inspection [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12281/2616535/Super-resolution-network-for-x-ray-security-inspection/10.1117/12.2616535.short?SSO=1)
 - Information-exchange Enhanced Feature Pyramid Network (IEFPN) for Detecting Prohibited Items in X-ray Security Images [[Link]](https://ieeexplore.ieee.org/document/9674494)
 - Learning-Based Image Synthesis for Hazardous Object Detection in X-Ray Security Applications [[Link]](https://ieeexplore.ieee.org/document/9552004)
 - X-ray Security Inspection Image Detection Algorithm Based on Improved YOLOv4 [[Link]](https://ieeexplore.ieee.org/document/9645636)
