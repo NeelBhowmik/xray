@@ -31,11 +31,19 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 129] [3D: 39]
+:chart_with_upwards_trend: [2D: 130] [3D: 39]
+
+
+### 2023
+
+#### 2D
+
+- Computer Vision on X-ray Data in Industrial Production and Security Applications: A Comprehensive Survey [[Link]](https://ieeexplore.ieee.org/document/10005308)
 
 ### 2022
 #### 2D
 
+- Balanced Affinity Loss for Highly Imbalanced Baggage Threat Contour-Driven Instance Segmentation [[Link]](https://ieeexplore.ieee.org/document/9897490)
 - Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery [[Link]](https://arxiv.org/abs/2210.16453)
 - Automatic Baggage Threat Detection Using Deep Attention Networks [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-95070-5_11)
 - A Multi-Task Semantic Segmentation Network for Threat Detection in X-Ray Security Images [[Link]](https://ieeexplore.ieee.org/document/9897736)
