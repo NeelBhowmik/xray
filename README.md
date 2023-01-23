@@ -31,7 +31,7 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 130] [3D: 39]
+:chart_with_upwards_trend: [2D: 131] [3D: 38]
 
 
 ### 2023
@@ -136,6 +136,7 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 ### 2020
 #### 2D
 
+- Learning-based Material Classification in X-ray Security Images [[Link]](https://www.scitepress.org/Link.aspx?doi=10.5220/0008951702840291)
 - Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion [[Link]](https://openaccess.thecvf.com/content/ACCV2020/html/Hu_Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV_2020_paper.html)
 - Multi-view Object Detection Using Epipolar Constraints within Cluttered X-ray Security Imagery [[Link]](https://breckon.org/toby/publications/papers/isaac20multiview.pdf)
 - Occluded Prohibited Items Detection: an X-ray Security Inspection Benchmark and De-occlusion Attention Module [[Link]](https://arxiv.org/abs/2004.08656)
@@ -194,7 +195,6 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 
 #### 3D CT
 - Consensus relaxation on materials of interest for adaptive ATR in CT images of baggage [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10632/106320E/Consensus-relaxation-on-materials-of-interest-for-adaptive-ATR-in/10.1117/12.2309839.full)
-- Consensus relaxation on materials of interest for adaptive ATR in CT images of baggage [[Link]](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2309839)
 - Adaptive Target Recognition: A Case Study Involving Airport Baggage Screening [[Link]](https://arxiv.org/abs/1811.04772)
 
 
