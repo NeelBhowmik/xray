@@ -31,18 +31,25 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 131] [3D: 38]
+:chart_with_upwards_trend: [2D: 137] [3D: 38]
 
 
 ### 2023
 
 #### 2D
 
+- CTA-FPN: Channel-Target Attention Feature Pyramid Network for Prohibited Object Detection in X-ray Images [[Link]](https://link.springer.com/article/10.1007/s11220-023-00416-7)
+- Material-Aware Path Aggregation Network and Shape Decoupled SIoU for X-ray Contraband Detection [[Link]](https://www.mdpi.com/2079-9292/12/5/1179)
+- Seeing Through the Data: A Statistical Evaluation of Prohibited Item Detection Benchmark Datasets for X-ray Security Screening [[Link]](https://breckon.org/toby/publications/papers/isaac23evaluation.pdf)
+- X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detection [[Link]](https://arxiv.org/abs/2302.09491)
+- Cascaded structure tensor for robust baggage threat detection [[Link]](https://link.springer.com/article/10.1007/s00521-023-08296-4)
 - Computer Vision on X-ray Data in Industrial Production and Security Applications: A Comprehensive Survey [[Link]](https://ieeexplore.ieee.org/document/10005308)
 
 ### 2022
 #### 2D
 
+- Learning-based Material Classiﬁcation in X-ray Security Images [[Link]](https://www.scitepress.org/Papers/2020/89517/pdf/index.html)
+- Few-shot X-ray Prohibited Item Detection: A Benchmark and Weak-feature Enhancement Network [[Link]](https://dl.acm.org/doi/abs/10.1145/3503161.3548075)
 - Balanced Affinity Loss for Highly Imbalanced Baggage Threat Contour-Driven Instance Segmentation [[Link]](https://ieeexplore.ieee.org/document/9897490)
 - Joint Sub-component Level Segmentation and Classification for Anomaly Detection within Dual-Energy X-Ray Security Imagery [[Link]](https://arxiv.org/abs/2210.16453)
 - Automatic Baggage Threat Detection Using Deep Attention Networks [[Link]](https://link.springer.com/chapter/10.1007/978-3-030-95070-5_11)
