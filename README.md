@@ -31,13 +31,14 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 137] [3D: 38]
+:chart_with_upwards_trend: [2D: 138] [3D: 38]
 
 
 ### 2023
 
 #### 2D
 
+- Transformers for Imbalanced Baggage Threat Recognition [[Link]](https://ieeexplore.ieee.org/document/9977427)
 - CTA-FPN: Channel-Target Attention Feature Pyramid Network for Prohibited Object Detection in X-ray Images [[Link]](https://link.springer.com/article/10.1007/s11220-023-00416-7)
 - Material-Aware Path Aggregation Network and Shape Decoupled SIoU for X-ray Contraband Detection [[Link]](https://www.mdpi.com/2079-9292/12/5/1179)
 - Seeing Through the Data: A Statistical Evaluation of Prohibited Item Detection Benchmark Datasets for X-ray Security Screening [[Link]](https://breckon.org/toby/publications/papers/isaac23evaluation.pdf)
