@@ -31,13 +31,16 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 138] [3D: 38]
+:chart_with_upwards_trend: [2D: 141] [3D: 38]
 
 
 ### 2023
 
 #### 2D
 
+- Optimization and Research of Suspicious Object Detection Algorithm in X-ray Image [[Link]](https://ieeexplore.ieee.org/document/10082660)
+- Object Detection and X-Ray Security Imaging: A Survey [[Link]](https://ieeexplore.ieee.org/abstract/document/10120944)
+- RWSC-Fusion: Region-Wise Style-Controlled Fusion Network for the Prohibited X-Ray Security Image Synthesis [[Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Duan_RWSC-Fusion_Region-Wise_Style-Controlled_Fusion_Network_for_the_Prohibited_X-Ray_Security_CVPR_2023_paper.html)
 - Transformers for Imbalanced Baggage Threat Recognition [[Link]](https://ieeexplore.ieee.org/document/9977427)
 - CTA-FPN: Channel-Target Attention Feature Pyramid Network for Prohibited Object Detection in X-ray Images [[Link]](https://link.springer.com/article/10.1007/s11220-023-00416-7)
 - Material-Aware Path Aggregation Network and Shape Decoupled SIoU for X-ray Contraband Detection [[Link]](https://www.mdpi.com/2079-9292/12/5/1179)
