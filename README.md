@@ -31,13 +31,20 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 141] [3D: 38]
+:chart_with_upwards_trend: [2D: 146] [3D: 38]
 
 
 ### 2023
 
 #### 2D
 
+- Inspection of cargo using dual-energy X-ray radiography: A review [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0969806X23004255?via%3Dihub#cebib0010)
+- Programmable broad learning system for baggage threat recognition [[Link]](https://link.springer.com/article/10.1007/s11042-023-16057-7)
+- SLX: Similarity Learning for X-Ray Screening and Robust Automated Disassembled Object Detection [[Link]](https://ieeexplore.ieee.org/document/10190997)
+- Attention Based Network with DA-Loss for X-ray Contraband Automatic Detection [[Link]](https://ieeexplore.ieee.org/document/10219712)
+- AC-YOLOv4: an object detection model incorporating attention mechanism and atrous convolution for contraband detection in x-ray images [[Link]](https://link.springer.com/article/10.1007/s11042-023-16628-8) 
+- FSVM: A Few-Shot Threat Detection Method for X-ray Security Images [[Link]](https://www.mdpi.com/1424-8220/23/8/4069)
+- Incremental Instance Segmentation for Cluttered Baggage Threat Detection [[Link]](https://ieeexplore.ieee.org/document/10231011)
 - Optimization and Research of Suspicious Object Detection Algorithm in X-ray Image [[Link]](https://ieeexplore.ieee.org/document/10082660)
 - Object Detection and X-Ray Security Imaging: A Survey [[Link]](https://ieeexplore.ieee.org/abstract/document/10120944)
 - RWSC-Fusion: Region-Wise Style-Controlled Fusion Network for the Prohibited X-Ray Security Image Synthesis [[Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Duan_RWSC-Fusion_Region-Wise_Style-Controlled_Fusion_Network_for_the_Prohibited_X-Ray_Security_CVPR_2023_paper.html)
