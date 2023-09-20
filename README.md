@@ -35,7 +35,8 @@
 
 [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier)
 
-### 2023 [<sub>[top]</sub>](#scroll-paper)
+### 2023
+[<sub>[top]</sub>](#scroll-paper)
 #### 2D
 
 - A literature review on deep learning algorithms for analysis of X-ray images [[Link]](https://link.springer.com/article/10.1007/s13042-023-01961-z)
@@ -58,7 +59,8 @@
 - Cascaded structure tensor for robust baggage threat detection [[Link]](https://link.springer.com/article/10.1007/s00521-023-08296-4)
 - Computer Vision on X-ray Data in Industrial Production and Security Applications: A Comprehensive Survey [[Link]](https://ieeexplore.ieee.org/document/10005308)
 
-### 2022 [<sub>[top]</sub>](#scroll-paper)
+### 2022
+[<sub>[top]</sub>](#scroll-paper)
 #### 2D
 
 - Learning-based Material Classiﬁcation in X-ray Security Images [[Link]](https://www.scitepress.org/Papers/2020/89517/pdf/index.html)
@@ -113,7 +115,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - CTIMS: Automated Defect Detection Framework Using Computed Tomography [[Link]](https://www.mdpi.com/2076-3417/12/4/2175)
 
 
-### 2021 [<sub>[top]</sub>](#scroll-paper)
+### 2021
+[<sub>[top]</sub>](#scroll-paper)
 #### 2D
 - Super-resolution network for x-ray security inspection [[Link]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12281/2616535/Super-resolution-network-for-x-ray-security-inspection/10.1117/12.2616535.short?SSO=1)
 - Information-exchange Enhanced Feature Pyramid Network (IEFPN) for Detecting Prohibited Items in X-ray Security Images [[Link]](https://ieeexplore.ieee.org/document/9674494)
@@ -153,7 +156,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - SliceNets — A Scalable Approach for Object Detection in 3D CT Scans [[Link]](https://ieeexplore.ieee.org/document/9423392)
 - DEBISim: A simulation pipeline for dual energy CT-based baggage inspection systems [[Link]](https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst200808)
 
-### 2020 [<sub>[top]</sub>](#scroll-paper)
+### 2020
+[<sub>[top]</sub>](#scroll-paper)
 #### 2D
 
 - Learning-based Material Classification in X-ray Security Images [[Link]](https://www.scitepress.org/Link.aspx?doi=10.5220/0008951702840291)
@@ -175,7 +179,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - A Reference Architecture for Plausible Threat Image Projection (TIP) Within 3D X-ray Computed Tomography Volumes [[Link]](https://arxiv.org/abs/2001.05459)
 - An Approach for Adaptive Automatic Threat Recognition Within 3D Computed Tomography Images for Baggage Security Screening [[Link]](https://arxiv.org/abs/1903.10604)
 
-### 2019 [<sub>[top]</sub>](#scroll-paper)
+### 2019
+[<sub>[top]</sub>](#scroll-paper)
 #### 2D
 - Evaluating the Transferability and Adversarial Discrimination of Convolutional Neural Networks for Threat Object Detection and Classification within X-Ray Security Imagery [[Link]](https://arxiv.org/abs/1911.08966)
 - On the Impact of Object and Sub-Component Level Segmentation Strategies for Supervised Anomaly Detection within X-Ray Security Imagery [[Link]](https://arxiv.org/abs/1911.08216)
@@ -201,7 +206,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 #### 3D CT
 - On the Relevance of Denoising and Artefact Reduction in 3D Segmentation and Classification within Complex Computed Tomography Imagery [[Link]](https://breckon.org/toby/publications/papers/mouton19relevance.pdf)
 
-### 2018 [<sub>[top]</sub>](#scroll-paper)
+### 2018
+[<sub>[top]</sub>](#scroll-paper)
 
 #### 2D
 - On Using Deep Convolutional Neural Network Architectures for Automated Object Detection and Classification within X-ray Baggage Security Imagery [[Link]](https://breckon.org/toby/publications/papers/akcay18architectures.pdf)
@@ -218,7 +224,8 @@ for X-Ray Waste Inspection [[Link]](https://openaccess.thecvf.com/content/CVPR20
 - Adaptive Target Recognition: A Case Study Involving Airport Baggage Screening [[Link]](https://arxiv.org/abs/1811.04772)
 
 
-### Earlier [<sub>[top]</sub>](#scroll-paper)
+### Earlier
+[<sub>[top]</sub>](#scroll-paper)
 
 #### 2D
 - An Evaluation Of Region Based Object Detection Strategies Within X-Ray Baggage Security Imagery [[Link]](https://breckon.org/toby/publications/papers/akcay17region.pdf)
