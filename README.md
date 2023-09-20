@@ -31,13 +31,15 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 146] [3D: 38]
+:chart_with_upwards_trend: [2D: 148] [3D: 38]
 
 
 ### 2023
 
 #### 2D
 
+- A literature review on deep learning algorithms for analysis of X-ray images [[Link]](https://link.springer.com/article/10.1007/s13042-023-01961-z)
+- X-ray Detection of Prohibited Item Method Based on Dual Attention Mechanism [[Link]](https://www.mdpi.com/2079-9292/12/18/3934)
 - Inspection of cargo using dual-energy X-ray radiography: A review [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0969806X23004255?via%3Dihub#cebib0010)
 - Programmable broad learning system for baggage threat recognition [[Link]](https://link.springer.com/article/10.1007/s11042-023-16057-7)
 - SLX: Similarity Learning for X-Ray Screening and Robust Automated Disassembled Object Detection [[Link]](https://ieeexplore.ieee.org/document/10190997)
