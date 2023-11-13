@@ -40,7 +40,7 @@
 #### 2D
 
 - Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.html)
-- Electronic explosives inspection: a fine-grained X-ray benchmark and few-sho [[Paper]](https://link.springer.com/article/10.1007/s11042-023-17388-1)
+- Electronic explosives inspection: a fine-grained X-ray benchmark and few-shot prohibited phone detection model [[Paper]](https://link.springer.com/article/10.1007/s11042-023-17388-1)
 - DETR Based Prohibited Item Detection in X-ray Security Checking Images [[Paper]](https://ieeexplore.ieee.org/document/10260512)
 - Feature-Aware Prohibited Items Detection for X-Ray Image [[Paper]](https://ieeexplore.ieee.org/document/10223152)
 - A literature review on deep learning algorithms for analysis of X-ray images [[Paper]](https://link.springer.com/article/10.1007/s13042-023-01961-z)
