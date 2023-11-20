@@ -280,3 +280,16 @@ for X-Ray Waste Inspection [[Paper]](https://openaccess.thecvf.com/content/CVPR2
 - Using Threat Image Projection Data Forassessing Individual Screener Performance [[Paper]](https://www.witpress.com/elibrary/wit-transactions-on-the-built-environment/82/15153)
 - 3D threat image projection [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6805/680508/3D-threat-image-projection/10.1117/12.766432.full?SSO=1)
 - Learning-Based Object Identification and Segmentation Using Dual-Energy CT Images for Security [[Paper]](https://ieeexplore.ieee.org/document/7159062)
+
+
+
+
+# Reference
+If you use this repo and like it, use this to cite it:
+```tex
+@misc{xray-vision,
+      title={Brief history of X-ray security imaging in Computer Vision},
+      author={Neelanjan Bhowmik},
+      year={2021},
+      url={https://github.com/NeelBhowmik/xray}
+    }
