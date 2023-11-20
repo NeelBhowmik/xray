@@ -33,7 +33,7 @@
 ## :scroll: Paper 
 :chart_with_upwards_trend: [2D: 152] [3D: 38]
 
-[[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#reference) 
+[[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
 ### 2023
 [<sup>[top]</sup>](#scroll-paper)
@@ -284,7 +284,7 @@ for X-Ray Waste Inspection [[Paper]](https://openaccess.thecvf.com/content/CVPR2
 
 
 
-# Reference
+# :frog: Reference
 If you use this repo and like it, use this to cite it:
 ```tex
 @misc{xray-vision,
