@@ -6,7 +6,7 @@
 
 *[List of datasets and papers (not exhaustive)]*
 
-## :dragon: Dataset
+## :dragon_face: Dataset
 :chart_with_upwards_trend: [2D: 15] [3D: 2]
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
@@ -33,7 +33,7 @@
 ## :scroll: Paper 
 :chart_with_upwards_trend: [2D: 152] [3D: 38]
 
-[[Dataset]](#dragon-dataset) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
+[[Dataset]](#dragonface-dataset) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
 ### 2023
 [<sup>[top]</sup>](#scroll-paper)
