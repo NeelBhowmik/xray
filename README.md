@@ -7,10 +7,11 @@
 *[List of datasets and papers (not exhaustive)]*
 
 ## :dragon_face: Dataset
-:chart_with_upwards_trend: [2D: 15] [3D: 2]
+:chart_with_upwards_trend: [2D: 16] [3D: 2]
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
+|LPIXray    |2D    | 2023 |18           |60,950 - 0 | bbox|1     |<span style="color:red;">x</span> [[Link]](https://ieeexplore.ieee.org/document/10350273)  |
 |FSOD       |2D    | 2022 |20            |12,333 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |EDS       |2D    | 2022 |10            |14,219 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, segm|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
@@ -31,15 +32,24 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 152] [3D: 38]
+:chart_with_upwards_trend: [2D: 156] [3D: 38]
 
-[[Dataset]](#dragon_face-dataset) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
+[[Dataset]](#dragon_face-dataset) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
+
+### 2024
+[<sup>[top]</sup>](#scroll-paper)
+#### 2D
+
+- X-ray image analysis for explosive circuit detection using deep learning algorithms [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494623011511?via%3Dihub)
 
 ### 2023
 [<sup>[top]</sup>](#scroll-paper)
 #### 2D
 
 - Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.html)
+- Enhancing baggage inspection through computer vision analysis of x-ray images [[Paper]](https://link.springer.com/article/10.1007/s12198-023-00270-4)
+- GADet: A Geometry-Aware X-ray Prohibited Items Detector [[Paper]](https://ieeexplore.ieee.org/document/10322651)
+- LPIXray: A Large-scale Logistics Prohibited Item X-ray Dataset for the Application of Deep Learning in Security Inspection [[Paper]](https://ieeexplore.ieee.org/document/10350273)
 - Electronic explosives inspection: a fine-grained X-ray benchmark and few-shot prohibited phone detection model [[Paper]](https://link.springer.com/article/10.1007/s11042-023-17388-1)
 - DETR Based Prohibited Item Detection in X-ray Security Checking Images [[Paper]](https://ieeexplore.ieee.org/document/10260512)
 - Feature-Aware Prohibited Items Detection for X-Ray Image [[Paper]](https://ieeexplore.ieee.org/document/10223152)
