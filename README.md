@@ -11,7 +11,7 @@
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
-|LPIXray    |2D    | 2023 |18           |60,950 - 0 | bbox|1     |<span style="color:red;">x</span> [[Link]](https://ieeexplore.ieee.org/document/10350273)  |
+|LPIXray    |2D    | 2023 |18           |60,950 - 0 | bbox|1     |<span style="color:red;">✕</span> [[Link]](https://ieeexplore.ieee.org/document/10350273)  |
 |FSOD       |2D    | 2022 |20            |12,333 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |EDS       |2D    | 2022 |10            |14,219 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |Xray-PI       |2D    | 2022 |12            |2,409 - 0 | bbox, segm|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/LPAIS/Xray-PI)  |
