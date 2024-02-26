@@ -9,6 +9,8 @@
 
 *[List of datasets and papers (not exhaustive)]*
 
+:space_invader: This is constantly updated with the latest datasets, papers - check in regularly for updates! 
+
 ## :dragon_face: Dataset
 :chart_with_upwards_trend: [2D: 16] [3D: 2]
 
@@ -298,12 +300,12 @@ for X-Ray Waste Inspection [[Paper]](https://openaccess.thecvf.com/content/CVPR2
 
 
 
-# :frog: Reference
+## :frog: Reference
 If you use this repo and like it, use this to cite it:
 ```tex
 @misc{xray-vision,
       title={Xray-Vision: Brief history of X-ray security imaging in Computer Vision},
       author={Neelanjan Bhowmik},
-      year={2021},
+      year={2024},
       url={https://github.com/NeelBhowmik/xray}
     }
