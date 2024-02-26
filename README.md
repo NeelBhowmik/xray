@@ -1,15 +1,19 @@
 
 <div align="center">
-<img src="images/xray-history.png" width="600px"> 
+<img src="images/xvision_logo_3.png" width="100px"> 
 
-**Xray-Vision: Brief history of X-ray security imaging in Computer Vision**
+**XrayVision: Brief history of X-ray security imaging in Computer Vision**
 
 ---
 </div>
 
-:boom: List of datasets and papers (not exhaustive)!*
+:boom: List of datasets and papers (not exhaustive)!
 
 :space_invader: This is constantly updated with the latest datasets, papers - check in regularly for updates! 
+
+<div align="center">
+<img src="images/xray-history.png" width="600px"> 
+</div>
 
 ## :dragon_face: Dataset
 :chart_with_upwards_trend: [2D: 16] [3D: 2]
