@@ -7,7 +7,7 @@
 ---
 </div>
 
-*[List of datasets and papers (not exhaustive)]*
+:boom: List of datasets and papers (not exhaustive)!*
 
 :space_invader: This is constantly updated with the latest datasets, papers - check in regularly for updates! 
 
