@@ -1,8 +1,11 @@
-# Xray-Vision: Brief history of X-ray security imaging in Computer Vision
 
-<p align="center">
-  <img src="images/xray-history.png" />
-</p>
+<div align="center">
+<img src="images/xray-history.png" width="600px"> 
+
+**Xray-Vision: Brief history of X-ray security imaging in Computer Vision**
+
+---
+</div>
 
 *[List of datasets and papers (not exhaustive)]*
 
