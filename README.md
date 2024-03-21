@@ -9,6 +9,8 @@
 
 :boom: List of datasets and papers (not exhaustive)!
 
+:owl: Our epochal mission: Time to gather all those papers and datasets about X-ray security imaging onto this page! Let's turn this into the one-stop-shop for the research community - no need to wander around - we've got you covered!
+
 :space_invader: This is constantly updated with the latest datasets, papers - check in regularly for updates! 
 
 <div align="center">
