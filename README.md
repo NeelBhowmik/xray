@@ -16,10 +16,11 @@
 </div>
 
 ## :dragon_face: Dataset
-:chart_with_upwards_trend: [2D: 16] [3D: 2]
+:chart_with_upwards_trend: [2D: 17] [3D: 2]
 
 |Name       | Type | Year | Class |Prohibited - Negative| Annotations| Views|Open Source | 
 |-----------|------|------|-------------|-------------|------|-----|------|
+|DVXRAY    |2D    | 2024 |15           |10,000 - 22,0000 | bbox| 2     |<span style="color:green;">✓</span> [[Link]](https://ieeexplore.ieee.org/document/10458082)  |
 |LPIXray    |2D    | 2023 |18           |60,950 - 0 | bbox|1     |<span style="color:red;">✕</span> [[Link]](https://ieeexplore.ieee.org/document/10350273)  |
 |FSOD       |2D    | 2022 |20            |12,333 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
 |EDS       |2D    | 2022 |10            |14,219 - 0 | bbox|1     |<span style="color:green;">✓</span> [[Link]](https://github.com/DIG-Beihang/XrayDetection)  |
@@ -41,7 +42,7 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 157] [3D: 38]
+:chart_with_upwards_trend: [2D: 158] [3D: 38]
 
 :ant: [[Dataset]](#dragon_face-dataset) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
@@ -49,6 +50,7 @@
 [<sup>[top]</sup>](#scroll-paper)
 #### 2D
 
+- Towards Dual-view X-ray Baggage Inspection: A Large-scale Benchmark and Adaptive Hierarchical Cross Refinement for Prohibited Item Discovery [[Paper]](https://ieeexplore.ieee.org/document/10458082)
 - X-ray image analysis for explosive circuit detection using deep learning algorithms [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494623011511?via%3Dihub)
 
 ### 2023
@@ -313,3 +315,12 @@ If you use this repo and like it, use this to cite it:
       year={2024},
       url={https://github.com/NeelBhowmik/xray}
     }
+```
+
+## :rocket: Contribute
+
+Welcome to our lively repository - and you're invited to join the party! Feel free to contribute! 
+
+If you spot a missing paper/dataset - create an [issue](https://github.com/NeelBhowmik/xray/issues). 
+
+Together, we'll make this repo the coolest gathering spot for all things knowledge 📚
