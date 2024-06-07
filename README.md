@@ -44,7 +44,7 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 161] [3D: 38]
+:chart_with_upwards_trend: [2D: 162] [3D: 38]
 
 :ant: [[Dataset]](#dragon_face-dataset) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
@@ -63,6 +63,7 @@
 #### 2D
 
 - Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.html)
+- Enhanced detonators detection in X-ray baggage inspection by image manipulation and deep convolutional neural networks [[Paper]](https://www.nature.com/articles/s41598-023-41651-y)
 - Illicit item detection in X-ray images for security applications [[Paper]](https://ieeexplore.ieee.org/document/10233969)
 - Enhancing baggage inspection through computer vision analysis of x-ray images [[Paper]](https://link.springer.com/article/10.1007/s12198-023-00270-4)
 - GADet: A Geometry-Aware X-ray Prohibited Items Detector [[Paper]](https://ieeexplore.ieee.org/document/10322651)
