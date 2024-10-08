@@ -44,7 +44,7 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 162] [3D: 38]
+:chart_with_upwards_trend: [2D: 165] [3D: 38]
 
 :ant: [[Dataset]](#dragon_face-dataset) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
@@ -52,6 +52,9 @@
 [<sup>[top]</sup>](#scroll-paper)
 #### 2D
 
+- Self-Supervised Anomaly Detection and a New Benchmark for X-Ray Cargo Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10648123)
+- CLIFS: Clip-Driven Few-Shot Learning for Baggage Threat Classification [[Paper]](https://ieeexplore.ieee.org/document/10647879)
+- Adaptxray: Vision Transformer And Adapter In X-Ray Images For Prohibited Items Detection [[Paper]](https://ieeexplore.ieee.org/document/10648133)
 - Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery [[Paper]](https://arxiv.org/abs/2404.12285)
 - An Optimized Mask R-CNN with Bag-of-Visual Words and Fast+Surf Algorithm in Sharp Object Instance Segmentation for X-ray Security [[Paper]](https://www.temjournal.com/content/132/TEMJournalMay2024_926_939.html)
 - Multi-Scale Hierarchical Contour Framework for Detecting Cluttered Threats in Baggage Security [[Paper]](https://ieeexplore.ieee.org/document/10542724)
