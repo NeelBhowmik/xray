@@ -45,7 +45,7 @@
 
 ---
 ## :scroll: Paper 
-:chart_with_upwards_trend: [2D: 166] [3D: 38]
+:chart_with_upwards_trend: [2D: 168] [3D: 38]
 
 :ant: [[Dataset]](#dragon_face-dataset) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[Earlier]](#earlier) [[Reference]](#frog-reference) 
 
@@ -53,7 +53,9 @@
 [<sup>[top]</sup>](#scroll-paper)
 #### 2D
 
+- BGM: Background Mixup for X-ray Prohibited Items Detection [[Paper]](https://arxiv.org/abs/2412.00460)
 - Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans? [[Paper]](https://arxiv.org/abs/2411.18082)
+- MMCL: Boosting Deformable DETR-Based Detectors with Multi-Class Min-Margin Contrastive Learning for Superior Prohibited Item Detection [[Paper]](https://arxiv.org/abs/2406.03176)
 - Self-Supervised Anomaly Detection and a New Benchmark for X-Ray Cargo Images [[Paper]](https://ieeexplore.ieee.org/abstract/document/10648123)
 - CLIFS: Clip-Driven Few-Shot Learning for Baggage Threat Classification [[Paper]](https://ieeexplore.ieee.org/document/10647879)
 - Adaptxray: Vision Transformer And Adapter In X-Ray Images For Prohibited Items Detection [[Paper]](https://ieeexplore.ieee.org/document/10648133)
